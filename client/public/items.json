@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "imgUrl": "https://images.unsplash.com/photo-1576873689386-2e0e972d7198?ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
+    "imgAlt": "Dog pajamas",
+    "desc": "Dog pajamas (black)",
+    "price": 20.0,
+    "productName": "pajamas-black"
+  },
+  {
+    "id": 2,
+    "imgUrl": "https://images.unsplash.com/photo-1591946532546-4160f60a5311?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+    "imgAlt": "Jeans overalls",
+    "desc": "Jeans overalls for dogs",
+    "price": 35.0,
+    "productName": "jeans-overalls"
+  },
+  {
+    "id": 3,
+    "imgUrl": "https://images.unsplash.com/photo-1591856419156-3979c9edd30f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+    "imgAlt": "Pink Hoodie",
+    "desc": "Dog Hoodie (Pink)",
+    "price": 25.0,
+    "productName": "hoodie-pink"
+  },
+  {
+    "id": 4,
+    "imgUrl": "https://images.unsplash.com/photo-1591703257157-da4ba2364b47?ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
+    "imgAlt": "White Hoodie",
+    "desc": "Dog Hoodie (white)",
+    "price": 25.0,
+    "productName": "hoodie-white"
+  },
+  {
+    "id": 5,
+    "imgUrl": "https://images.unsplash.com/photo-1591703166380-e36be05eb7bf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+    "imgAlt": "Navy t-shirt",
+    "desc": "Navy t-shirt for dogs (Marinière)",
+    "price": 20.0,
+    "productName": "navy-tshirt"
+  },
+  {
+    "id": 6,
+    "imgUrl": "https://images.unsplash.com/photo-1591703025506-69e1f5611d93?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=751&q=80",
+    "imgAlt": "Black Raincoat",
+    "desc": "Dog raincoat (black)",
+    "price": 40.0,
+    "productName": "raincoat-black"
+  },
+  {
+    "id": 7,
+    "imgUrl": "https://images.unsplash.com/photo-1576873689391-60d690f6f930?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+    "imgAlt": "Blue shirt",
+    "desc": "Blue shirt for dogs",
+    "price": 25.0,
+    "productName": "shirt-blue"
+  },
+  {
+    "id": 8,
+    "imgUrl": "https://images.unsplash.com/photo-1591769225440-811ad7d6eab3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+    "imgAlt": "Sunglasses",
+    "desc": "Sunglasses",
+    "price": 15.0,
+    "productName": "sunglasses"
+  },
+  {
+    "id": 9,
+    "imgUrl": "https://images.unsplash.com/photo-1591946600248-29d495003cac?ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
+    "imgAlt": "Shirt and Scarf",
+    "desc": "Dog shirt and Scarf combo (white)",
+    "price": 40.0,
+    "productName": "shirt-scarf"
+  },
+  {
+    "id": 10,
+    "imgUrl": "https://images.unsplash.com/photo-1592028616810-88480a45e406?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
+    "imgAlt": "Ribbon Skirt",
+    "desc": "Skirt with ribbon for dogs (light brown)",
+    "price": 30.0,
+    "productName": "ribbon-skirt"
+  },
+  {
+    "id": 11,
+    "imgUrl": "https://images.unsplash.com/photo-1591856615551-53754fe0ec35?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=751&q=80",
+    "imgAlt": "Backpack harness",
+    "desc": "Backpack Harness (Marinière)",
+    "price": 20.0,
+    "productName": "backpack-harness"
+  }
+]
