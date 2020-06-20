@@ -5,7 +5,7 @@
     "imgAlt": "Dog pajamas",
     "desc": "Dog pajamas (black)",
     "price": 20.0,
-    "productName": "pajamas-black"
+    "productName": "pajamas (Black)"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "imgAlt": "Jeans overalls",
     "desc": "Jeans overalls for dogs",
     "price": 35.0,
-    "productName": "jeans-overalls"
+    "productName": "Jeans Overalls"
   },
   {
     "id": 3,
@@ -29,7 +29,7 @@
     "imgAlt": "White Hoodie",
     "desc": "Dog Hoodie (white)",
     "price": 25.0,
-    "productName": "hoodie-white"
+    "productName": "Hoodie (white)"
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@
     "imgAlt": "Navy t-shirt",
     "desc": "Navy t-shirt for dogs (Marinière)",
     "price": 20.0,
-    "productName": "navy-tshirt"
+    "productName": "Navy T-shirt (Marinière)"
   },
   {
     "id": 6,
@@ -45,7 +45,7 @@
     "imgAlt": "Black Raincoat",
     "desc": "Dog raincoat (black)",
     "price": 40.0,
-    "productName": "raincoat-black"
+    "productName": "Raincoat (black)"
   },
   {
     "id": 7,
@@ -53,7 +53,7 @@
     "imgAlt": "Blue shirt",
     "desc": "Blue shirt for dogs",
     "price": 25.0,
-    "productName": "shirt-blue"
+    "productName": "Shirt (blue)"
   },
   {
     "id": 8,
@@ -61,7 +61,7 @@
     "imgAlt": "Sunglasses",
     "desc": "Sunglasses",
     "price": 15.0,
-    "productName": "sunglasses"
+    "productName": "Sunglasses"
   },
   {
     "id": 9,
@@ -69,7 +69,7 @@
     "imgAlt": "Shirt and Scarf",
     "desc": "Dog shirt and Scarf combo (white)",
     "price": 40.0,
-    "productName": "shirt-scarf"
+    "productName": "Shirt and Scarf (2 in 1)"
   },
   {
     "id": 10,
@@ -85,6 +85,6 @@
     "imgAlt": "Backpack harness",
     "desc": "Backpack Harness (Marinière)",
     "price": 20.0,
-    "productName": "backpack-harness"
+    "productName": "Harness Backpack (Marinière)"
   }
 ]
